@@ -1,0 +1,26 @@
+==================================================
+ ENTREGA - CP2 Realidade Aumentada com Vuforia
+==================================================
+
+LINK DO REPOSITORIO NO GITHUB:
+https://github.com/Pietro-Piccoli/CP2-Vuforia-Test
+
+--------------------------------------------------
+O QUE E:
+Experiencia de Realidade Aumentada (Unity + Vuforia).
+A camera reconhece um Image Target (foto de um tigre)
+e exibe um cubo 3D em cima. O usuario gira o cubo
+arrastando o dedo (celular) ou o mouse (Editor).
+
+COMO TESTAR:
+1. Abrir o projeto no Unity 6000.4.6f1.
+2. Abrir a cena Assets/Scenes/SampleScene.unity.
+3. Apertar Play.
+4. Mostrar a imagem IMAGEM_ALVO_tigre.jpg para a webcam.
+5. O cubo laranja aparece sobre o tigre.
+6. Clicar e arrastar para girar o cubo.
+
+Interacao em C#: Assets/Scripts/CuboInterativo.cs
+
+Detalhes: ver o arquivo README.md
+==================================================
